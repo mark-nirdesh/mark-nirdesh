@@ -1,4 +1,5 @@
-<!-- MATRIX HACKER BANNER -->
+<!-- MATRIX CYBERSECURITY BANNER -->
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a00,100:003300&height=230&section=header&text=Nirdesh%20%7C%20Cybersecurity%20Engineer&fontSize=38&fontColor=00ff00&animation=fadeIn"/>
 </p>
@@ -15,107 +16,113 @@
 
 # 👨‍💻 About Me
 
-Cybersecurity professional with **2+ years experience in IT Engineering and Network Security**.
+Cybersecurity professional focused on **SOC monitoring, threat detection and automation**.
 
 🎓 MSc Cyber Security – University of York  
-🌐 Experienced with enterprise network troubleshooting, security monitoring and SOC automation.
 
-Interested in:
+Areas of interest:
 
-- Cybersecurity Engineering
-- Network Security
-- Threat Detection
-- SOC Automation
-- Infrastructure Security
-- Honeypots & Security Labs
+- Cybersecurity Engineering  
+- Threat Detection  
+- SOC Automation  
+- Infrastructure Security  
+- Security Labs & Honeypots  
 
 ---
 
-# 🧰 Technical Skills
+# 🛡 SOC / Blue Team Dashboard
+
+```
+┌──────────────────────────────────────────────┐
+│            SECURITY OPERATIONS CENTER        │
+├──────────────────────────────────────────────┤
+│ Analyst            : Nirdesh                 │
+│ Role               : Cybersecurity Engineer  │
+│ Focus              : Blue Team / SOC         │
+│ Status             : Monitoring Threats 🟢   │
+└──────────────────────────────────────────────┘
+```
+
+---
+
+# 🧰 Skills & Tools
 
 <p align="center">
-
 <img src="https://skillicons.dev/icons?i=python,powershell,bash,linux,windows,docker,git,github,vscode"/>
-
 </p>
-
-**Security Frameworks**
-
-NIST • ISO 27001 • MITRE ATT&CK • Cyber Kill Chain • OWASP Top 10
-
-**Networking**
-
-TCP/IP • VLANs • DNS • DHCP • VPN • OSI Model
-
-**Security & Monitoring**
-
-SIEM • Wazuh • Splunk • Elastic EDR • Wireshark
 
 ---
 
 # 📜 Certifications
 
-- CompTIA Security+
-- CompTIA Network+
-- CompTIA A+
-- AWS Cloud Practitioner
-- Microsoft SC-900 (Security, Compliance & Identity)
-- Microsoft AZ-900 (Azure Fundamentals)
-
----
-
-# 💼 Experience
-
-**Network Engineer — Retail Response Ltd (UK)**  
-*July 2024 – July 2025*
-
-- Troubleshooting VPN, routing and enterprise network issues
-- Supporting DNS, DHCP, VLANs and firewall policies
-- Automating infrastructure deployments using Ansible
-- Reduced configuration time by **50%**
-
----
-
-**IT / Application Support Engineer — Cerco Ltd**
-
-- Supported secure connectivity across **38 hospitals**
-- Investigated authentication and network communication failures
-- Managed incidents via ServiceNow
-
----
-
-**Security Research Assistant — University of York**
-
-- Analysed IoT network traffic using **Wireshark & Python**
-- Simulated attacks including **DDoS and packet injection**
-- Presented research at **COMSNETS-24**
+- CompTIA Security+  
+- CompTIA Network+  
+- CompTIA A+  
+- AWS Cloud Practitioner  
+- Microsoft SC-900  
+- Microsoft AZ-900  
 
 ---
 
 # 🧪 Security Projects
 
-### AI-Assisted SOC Alert Triage
-
-- Built machine learning pipeline to classify SIEM alerts
-- Integrated **Wazuh SIEM with Python models**
-- Automated IOC enrichment using **VirusTotal API**
-
----
+### AI Assisted SOC Alert Triage
+- Machine learning pipeline to classify SIEM alerts  
+- Integrated **Wazuh SIEM with Python models**  
+- Automated IOC enrichment using VirusTotal  
 
 ### Azure Cloud Honeynet
+- Deployed honeypots (Kippo, Dionaea, Conpot)  
+- Built real-time attack monitoring dashboard  
 
-- Deployed honeypots including **Kippo, Dionaea and Conpot**
-- Built real-time attack dashboards
-- Created global attack map and threat intelligence monitoring
+### Enterprise SOC Lab (Proxmox)
+- pfSense firewall with Suricata IDS  
+- Splunk SIEM integration  
+- Vulnerable machines for attack simulation  
 
 ---
 
-### Enterprise SOC Lab (Proxmox)
+# 🖥 Security Terminal
 
-- Built full **SOC lab environment**
-- pfSense firewall with **Suricata IDS/IPS**
-- SIEM integration with **Splunk**
-- Vulnerable machines from Vulnhub for attack simulation
+```
+┌──(analyst㉿soc)-[~/threat-monitoring]
+└─$ whoami
+nirdesh
+
+┌──(analyst㉿soc)-[~/threat-monitoring]
+└─$ role
+Cybersecurity Engineer / Blue Team
+
+┌──(analyst㉿soc)-[~/threat-monitoring]
+└─$ focus
+Threat Detection
+Network Security
+Security Automation
+SOC Monitoring
+```
+
+---
+
+# 🌍 Global Cyber Threat Map
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/alexandresanlim/Badges4-README.md/master/assets/attack-map.gif" width="700">
+</p>
+
+---
+
+# 🛠 Security Tool Arsenal
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/SIEM-Wazuh-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SIEM-Splunk-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Network-Wireshark-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IDS-Suricata-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Firewall-pfSense-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Threat%20Intel-VirusTotal-green?style=for-the-badge"/>
+
+</p>
 
 ---
 
@@ -139,10 +146,10 @@ SIEM • Wazuh • Splunk • Elastic EDR • Wireshark
 
 ---
 
-# 📈 Activity Graph
+# 🏙 3D Contribution Dashboard
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mark-nirdesh&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mark-nirdesh&theme=tokyonight"/>
 </p>
 
 ---
