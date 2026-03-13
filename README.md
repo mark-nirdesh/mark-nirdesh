@@ -1,64 +1,121 @@
 <!-- MATRIX HACKER BANNER -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:000000,100:0f9b0f&height=220&section=header&text=Nirdesh%20%7C%20Cybersecurity%20%26%20Automation&fontSize=35&fontColor=00ff00&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001a00,100:003300&height=230&section=header&text=Nirdesh%20%7C%20Cybersecurity%20Engineer&fontSize=38&fontColor=00ff00&animation=fadeIn"/>
 </p>
 
-<!-- VISITOR COUNTER -->
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=mark-nirdesh&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge"/>
 </p>
 
-<!-- ANIMATED TYPING -->
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=IT+Support+Technician;PowerShell+Automation;Cybersecurity+Learner;Linux+Infrastructure+Labs;Always+Learning+New+Technology"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineer;Network+Security;SOC+Automation;PowerShell+%26+Python+Automation;SIEM+%7C+Threat+Detection;Always+Learning"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-💻 IT Support Technician interested in automation, infrastructure, and cybersecurity.
+Cybersecurity professional with **2+ years experience in IT Engineering and Network Security**.
 
-🔧 I enjoy building scripts, experimenting with infrastructure tools, and creating home labs.
+🎓 MSc Cyber Security – University of York  
+🌐 Experienced with enterprise network troubleshooting, security monitoring and SOC automation.
 
-🧠 Interests
+Interested in:
 
-- Cybersecurity
-- PowerShell Automation
-- Linux Administration
-- Infrastructure & Virtualization
-- Security Labs & Honeypots
-
----
-
-# 🧰 Skills & Tools
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=powershell,bash,linux,windows,docker,git,github,vscode,python" />
-
-</p>
+- Cybersecurity Engineering
+- Network Security
+- Threat Detection
+- SOC Automation
+- Infrastructure Security
+- Honeypots & Security Labs
 
 ---
 
-# 🛡️ Cybersecurity Focus
+# 🧰 Technical Skills
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Cybersecurity-Learning-darkgreen?style=for-the-badge&logo=hackthebox"/>
-<img src="https://img.shields.io/badge/Linux-Administration-black?style=for-the-badge&logo=linux"/>
-<img src="https://img.shields.io/badge/Automation-PowerShell-blue?style=for-the-badge&logo=powershell"/>
-<img src="https://img.shields.io/badge/Infrastructure-Proxmox-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HomeLab-Security-red?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=python,powershell,bash,linux,windows,docker,git,github,vscode"/>
 
 </p>
+
+**Security Frameworks**
+
+NIST • ISO 27001 • MITRE ATT&CK • Cyber Kill Chain • OWASP Top 10
+
+**Networking**
+
+TCP/IP • VLANs • DNS • DHCP • VPN • OSI Model
+
+**Security & Monitoring**
+
+SIEM • Wazuh • Splunk • Elastic EDR • Wireshark
 
 ---
 
 # 📜 Certifications
 
-- 🎓 CompTIA A+ (Voucher Available)
-- 📚 Studying Cybersecurity & System Administration
+- CompTIA Security+
+- CompTIA Network+
+- CompTIA A+
+- AWS Cloud Practitioner
+- Microsoft SC-900 (Security, Compliance & Identity)
+- Microsoft AZ-900 (Azure Fundamentals)
+
+---
+
+# 💼 Experience
+
+**Network Engineer — Retail Response Ltd (UK)**  
+*July 2024 – July 2025*
+
+- Troubleshooting VPN, routing and enterprise network issues
+- Supporting DNS, DHCP, VLANs and firewall policies
+- Automating infrastructure deployments using Ansible
+- Reduced configuration time by **50%**
+
+---
+
+**IT / Application Support Engineer — Cerco Ltd**
+
+- Supported secure connectivity across **38 hospitals**
+- Investigated authentication and network communication failures
+- Managed incidents via ServiceNow
+
+---
+
+**Security Research Assistant — University of York**
+
+- Analysed IoT network traffic using **Wireshark & Python**
+- Simulated attacks including **DDoS and packet injection**
+- Presented research at **COMSNETS-24**
+
+---
+
+# 🧪 Security Projects
+
+### AI-Assisted SOC Alert Triage
+
+- Built machine learning pipeline to classify SIEM alerts
+- Integrated **Wazuh SIEM with Python models**
+- Automated IOC enrichment using **VirusTotal API**
+
+---
+
+### Azure Cloud Honeynet
+
+- Deployed honeypots including **Kippo, Dionaea and Conpot**
+- Built real-time attack dashboards
+- Created global attack map and threat intelligence monitoring
+
+---
+
+### Enterprise SOC Lab (Proxmox)
+
+- Built full **SOC lab environment**
+- pfSense firewall with **Suricata IDS/IPS**
+- SIEM integration with **Splunk**
+- Vulnerable machines from Vulnhub for attack simulation
 
 ---
 
@@ -90,6 +147,14 @@
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
 # 🌐 Connect
 
 <p align="center">
@@ -98,8 +163,12 @@
 <img src="https://img.shields.io/badge/GitHub-Mark--Nirdesh-181717?style=for-the-badge&logo=github"/>
 </a>
 
+<a href="https://linkedin.com/in/nirdeshs">
+<img src="https://img.shields.io/badge/LinkedIn-Nirdesh-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
 </p>
 
 ---
 
-⭐ Always learning • Always building • Always improving
+⭐ Always learning • Always building • Always securing systems
