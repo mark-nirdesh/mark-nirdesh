@@ -119,10 +119,10 @@ Interested in:
 
 ---
 
-# 🏙️ 3D Contribution Calendar
+# 🏙️ Contribution Activity Graph
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mark-nirdesh&theme=tokyonight"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mark-nirdesh&theme=tokyo-night&area=true&hide_border=true"/>
 </p>
 
 ---
